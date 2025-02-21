@@ -1,6 +1,6 @@
 
 
-# **Hi there! 👋 I'm [Your Name]**  
+# **Hi there! 👋 I'm Omar **  
 
 ### **👨‍💻 About Me**  
 - 🎓 Undergraduate Student | Egypt Japan Univirsity Of Science And Technology, Majoring in AI & Data Science
@@ -15,7 +15,7 @@
 - Tools & Platforms: Jupyter, AWS Cloud, Git 
 
 ### **📂 My Projects**  
-🔹 Explore all my work in my **[My Projects Repository](https://github.com/omarashour04/My_Projects)** 🚀  
+🔹 Explore all my work in my **[Projects Repository](https://github.com/omarashour04/My_Projects)** 🚀  
 
 ### **🌐 Check Out My Portfolio**  
 🚀 **[My Portfolio Link Here](https://sites.google.com/view/omarashour/projects/arabic-letters-classification)**  
