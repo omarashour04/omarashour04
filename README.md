@@ -3,32 +3,24 @@
 # **Hi there! 👋 I'm [Your Name]**  
 
 ### **👨‍💻 About Me**  
-- 🎓 **Undergraduate Student** | [Your University & Major]  
-- 💡 Passionate about **[Your Interests: Web Dev, AI, Cybersecurity, etc.]**  
-- 🚀 Currently learning **[Technologies or Skills You're Exploring]**  
-- 👯 Open to collaborations on **[Projects or Interests]**  
-- 🎯 Goal: **[Your Career or Learning Goal]**  
+- 🎓 Undergraduate Student | Egypt Japan Univirsity Of Science And Technology, Majoring in AI & Data Science
+- 💡 Passionate about Machine Learning, Data Science, and AI
+- 🚀 Currently learning Deep Learning, Big Data, and Cloud Computing
+- 👯 Open to collaborations on AI, Data Science, and Open Source Projects
+- 🎯 Goal: To build intelligent and scalable AI-driven solutions
 
 ### **🛠️ Tech Stack**  
-- **Languages:** [Python, JavaScript, etc.]  
-- **Frameworks & Libraries:** [React, Node.js, TensorFlow, etc.]  
-- **Tools & Platforms:** [Git, Docker, VS Code, etc.]  
-
-### **📜 Certifications & Achievements**  
-- 🏆 **[Certification Name]** – [Issuing Organization]  
-- 🎖️ **[Achievement/Hackathon Win]**  
+- Languages: Python, SQL, JavaScript
+- Frameworks & Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- Tools & Platforms: Jupyter, AWS Cloud, Git 
 
 ### **📂 My Projects**  
-🔹 Explore all my work in my **[Projects Repository](Your Projects Repo Link)** 🚀  
+🔹 Explore all my work in my **[My Projects Repository](https://github.com/omarashour04/My_Projects)** 🚀  
 
 ### **🌐 Check Out My Portfolio**  
-🚀 **[Your Portfolio Link Here](Your Portfolio URL)**  
+🚀 **[My Portfolio Link Here](https://sites.google.com/view/omarashour/projects/arabic-letters-classification)**  
 
 ### **📫 Connect With Me**  
-- ✉️ Email: **[Your Email]**  
-- 💼 LinkedIn: **[Your Profile]**  
-- 🐦 Twitter/X: **[@YourHandle]**  
+- ✉️ Email: **omarashour365@gmail.com**  
+- 💼 LinkedIn: **www.linkedin.com/in/omar-ashour-a477062b9**  
 
----
-
-This keeps your profile **clean, structured, and professional** while ensuring all your projects stay in one place. Let me know if you want more **custom elements**, like **GitHub stats, badges, or animations!** 🚀😎
