@@ -1,6 +1,6 @@
 
 
-# **Hi there! 👋 I'm Omar **  
+# Hi there! 👋 I'm Omar  
 
 ### **👨‍💻 About Me**  
 - 🎓 Undergraduate Student | Egypt Japan Univirsity Of Science And Technology, Majoring in AI & Data Science
