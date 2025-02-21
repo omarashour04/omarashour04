@@ -18,7 +18,7 @@
 🔹 Explore all my work in my **[Projects Repository](https://github.com/omarashour04/My_Projects)** 🚀  
 
 ### **🌐 Check Out My Portfolio**  
-🚀 **[My Portfolio Link Here](https://sites.google.com/view/omarashour/projects/arabic-letters-classification)**  
+🚀 **[My Portfolio Link Here](https://sites.google.com/view/omarashour?usp=sharing)**  
 
 ### **📫 Connect With Me**  
 - ✉️ Email: **omarashour365@gmail.com**  
